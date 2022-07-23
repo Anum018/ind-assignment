@@ -1,0 +1,25 @@
+body
+{
+	background-color: #DABFDE;
+}
+
+a:link, a:visited  
+{
+	background-color: black;
+	color: white;
+	text-decoration: none;
+	padding: 16px;
+	text-align: center;
+	display: inline-block;
+	font-family: verdana;
+}
+a:hover
+{
+	color: red;
+	text-decoration: underline;
+}
+a:active
+{
+	color: turquoise;
+	text-decoration: underline;
+}
